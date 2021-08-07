@@ -1,0 +1,17 @@
+.Card {
+  cursor: pointer;
+  box-shadow: 0px 2px 9px #ccc;
+  border-radius: 5px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Card:hover {
+    box-shadow: 0px 2px 9px #999;
+}
+.Number {
+  font-size: 1rem;
+  font-weight: 700;
+}
